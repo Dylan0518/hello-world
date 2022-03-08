@@ -6,5 +6,7 @@ helloworld/n
 I can store my thonughts and plans here!  
 
 **my plan tonight**
-1.learning github2.machine fundement
+1. learning github
+2. machine fundement
+3. 
 
